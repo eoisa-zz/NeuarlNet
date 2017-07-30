@@ -1,0 +1,229 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/Eyad/IdeaProjects/NeuralNet/target/scala-2.12/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.1
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+3 items
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> /Users/Eyad/IdeaProjects/NeuralNet/target/scala-2.12/classes/NeuralNet$.class
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> /Users/Eyad/IdeaProjects/NeuralNet/target/scala-2.12/classes/NeuralNet.class
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> /Users/Eyad/IdeaProjects/NeuralNet/target/scala-2.12/classes/helpers/TensorSugar.class
+binary dependencies:
+6 items
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> /Users/Eyad/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> /Users/Eyad/.ivy2/cache/org.tensorflow/libtensorflow/jars/libtensorflow-1.2.1.jar
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> /Users/Eyad/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> /Users/Eyad/.ivy2/cache/org.tensorflow/libtensorflow/jars/libtensorflow-1.2.1.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> /Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+1 items
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> /Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala
+inheritance external dependencies:
+0 items
+class names:
+3 items
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> NeuralNet
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> NeuralNet$
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> helpers.TensorSugar
+used names:
+135 items
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> <init>
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> <repeated>
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> A
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> Any
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> AnyRef
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> App
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> Array
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> ArrayOps
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> B
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> CanBuildFrom
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> Char
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> ClassTag
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> DataType
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> Float
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> Function1
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> Graph
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> Inclusive
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> Int
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> List
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> Long
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> NeuralNet
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> None
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> Nothing
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> Object
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> Operation
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> Option
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> Output
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> Predef
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> Range
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> RichInt
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> Runner
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> Session
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> StdIn
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> String
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> StringContext
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> StringOps
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> T
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> T1
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> T2
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> T3
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> T4
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> Tensor
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> TensorSugar
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> That
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> Tuple4
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> U
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> Unit
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> _$4
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> add
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> add_Int64
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> apply
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> augmentString
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> canBuildFrom
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> collection
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> create
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> extractUserInput
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> feed
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> fetch
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> floatValue
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> foreach
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> get
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> graph
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> helpers
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> i
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> immutable
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> input
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> intWrapper
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> io
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> length
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> map
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> materializeClassTag
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> newPlaceholder
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> ofRef
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> org
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> output
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> package
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> println
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> rawValues
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> readLine
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> refArrayOps
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> reflect
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> run
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> runner
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> s
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> scala
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> session
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> split
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> tensorflow
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> to
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> toLong
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> value
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> x
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> xIn
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> xTensor
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> xUserInput
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> y
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> yIn
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> yTensor
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> Any
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> AnyRef
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> Boolean
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> DataType
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> Function1
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> Graph
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> Int
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> List
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> Nothing
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> Operation
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> OperationBuilder
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> Option
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> Output
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> Predef
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> String
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> Tensor
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> U
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> Unit
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> addInput
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> build
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> dataType
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> foreach
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> g
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> get
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> helpers
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> isEmpty
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> name
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> opBuilder
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> operation
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> org
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> output
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> package
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> scala
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> setAttr
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> tensorflow
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> value
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> values
+product stamps:
+3 items
+/Users/Eyad/IdeaProjects/NeuralNet/target/scala-2.12/classes/NeuralNet$.class -> lastModified(1501271451000)
+/Users/Eyad/IdeaProjects/NeuralNet/target/scala-2.12/classes/NeuralNet.class -> lastModified(1501271451000)
+/Users/Eyad/IdeaProjects/NeuralNet/target/scala-2.12/classes/helpers/TensorSugar.class -> lastModified(1501271451000)
+source stamps:
+2 items
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> hash(4b17c787b2310a4113533f1df9b1233b907c99f4)
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> hash(768e723570f136a8ad6aaaa4665de0c159c0a593)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1459485740000)
+/Users/Eyad/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar -> lastModified(1480936165000)
+/Users/Eyad/.ivy2/cache/org.tensorflow/libtensorflow/jars/libtensorflow-1.2.1.jar -> lastModified(1498789758000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/Eyad/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar -> scala.package$
+/Users/Eyad/.ivy2/cache/org.tensorflow/libtensorflow/jars/libtensorflow-1.2.1.jar -> org.tensorflow.Tensor
+internal apis:
+2 items
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwlntZwAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAbc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwdYtGpXQABm5vdGlmeXNxAH4ADDS1aGJ0AAR3YWl0c3EAfgAMYQQrcHQADSRhc0luc3RhbmNlT2ZzcQB+AAzg4dLtdAAGZXF1YWxzc3EAfgAMq8t3sXQADGFzSW5zdGFuY2VPZnNxAH4ADO5TUF90AA5leGVjdXRpb25TdGFydHNxAH4ADE0cts50AAlhZGRfSW50NjRzcQB+AAxalex6dAAMc3luY2hyb25pemVkc3EAfgAMUCFlrHQADSRpc0luc3RhbmNlT2ZzcQB+AAxnmLoFdAAJTmV1cmFsTmV0c3EAfgAMd24BUXQABG1haW5zcQB+AAxvAqXfdAAJbm90aWZ5QWxsc3EAfgAMR6p31nQADGlzSW5zdGFuY2VPZnNxAH4ADKAGOo50AA5uZXdQbGFjZWhvbGRlcnNxAH4ADODXWN90AAI9PXNxAH4ADMHFUDt0AAVjbG9uZXNxAH4ADC1Svl90AAYkaW5pdCRzcQB+AAxhLuQudAAIdG9TdHJpbmdzcQB+AAxH2woudAAEYXJnc3NxAH4ADNoTEzJ0AAIhPXNxAH4ADIl+3Gh0AAhnZXRDbGFzc3NxAH4ADAq8/x10AAJuZXNxAH4ADKQUV3d0AAJlcXNxAH4ADAsudnR0AAtkZWxheWVkSW5pdHNxAH4ADAr3pEh0AAIjI3NxAH4ADBvcKkx0AAhmaW5hbGl6ZXNxAH4ADPiEoRl0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AE14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AIXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0ABBzY2FsYS5kZXByZWNhdGVkc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGVzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ATUwACWluaGVyaXRlZHEAfgBNTAAHcGFyZW50c3EAfgBNeHEAfgBqc3EAfgBldXEAfgBIAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBOcQB+AFd1cQB+AFgAAAAAc3EAfgBaAnEAfgAjdXEAfgBcAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGl0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBpc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCFdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AcnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AX3QABVBsYWlucQB+ADNzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AHlbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGlzcQB+AHh0AAVBcnJheXEAfgB+dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AHh0AAZTdHJpbmdzcQB+AHxzcQB+AH91cQB+AIIAAAADc3EAfgCEdAAEamF2YXNxAH4AhHQABGxhbmdxAH4AiXNxAH4AZXVxAH4ASAAAAABzcQB+AGV1cQB+AJwAAAAFc3EAfgB4dAALVGVuc29yU3VnYXJzcQB+AHxzcQB+AH91cQB+AIIAAAACc3EAfgCEdAAHaGVscGVyc3EAfgCJc3EAfgB4dAADQXBwcQB+AH5zcQB+AHh0AAtEZWxheWVkSW5pdHEAfgB+c3EAfgB4dAAGT2JqZWN0cQB+AKBzcQB+AHh0AANBbnlxAH4AfnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFdisBVdXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADwvVXNlcnMvRXlhZC9JZGVhUHJvamVjdHMvTmV1cmFsTmV0L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRLF8eHsjEKQRNTPx35sSM7kHyZ9A==
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwgpPTwAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw0SREz3QABm5vdGlmeXNxAH4ADENoaox0AAR3YWl0c3EAfgAMtWeQSnQADSRhc0luc3RhbmNlT2ZzcQB+AAyeIJzidAAGZXF1YWxzc3EAfgAMYF5pmnQADGFzSW5zdGFuY2VPZnNxAH4ADER+gPR0AAlhZGRfSW50NjRzcQB+AAwGw1qGdAAMc3luY2hyb25pemVkc3EAfgAM0v8tNXQADSRpc0luc3RhbmNlT2ZzcQB+AAxpjtkNdAAJbm90aWZ5QWxsc3EAfgAMVNwM2HQADGlzSW5zdGFuY2VPZnNxAH4ADJT0MUZ0AA5uZXdQbGFjZWhvbGRlcnNxAH4ADFyM7Vh0AAI9PXNxAH4ADNL1Bot0AAVjbG9uZXNxAH4ADOfO3ix0AAYkaW5pdCRzcQB+AAywHqAzdAALVGVuc29yU3VnYXJzcQB+AAyUHO3tdAAIdG9TdHJpbmdzcQB+AAxFC2MkdAACIT1zcQB+AAz5UIbjdAAIZ2V0Q2xhc3NzcQB+AAzkEBtBdAACbmVzcQB+AAwwwqQMdAACZXFzcQB+AAw9MjrtdAACIyNzcQB+AAxWqtsvdAAIZmluYWxpemVzcQB+AAwmYVsGdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBFeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHABdAATaGVscGVycy5UZW5zb3JTdWdhcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBdc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEVMAAlpbmhlcml0ZWRxAH4ARUwAB3BhcmVudHNxAH4ARXhxAH4AYnNxAH4AXXVxAH4AQAAAAABzcQB+AF11cQB+AEAAAAAAc3EAfgBddXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBhdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBhc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB6dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB7c3EAfgBudAADQW55c3EAfgByc3EAfgB1dXEAfgB4AAAAAnNxAH4AenQABXNjYWxhcQB+AIF1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAdoZWxwZXJzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFdisBVdXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADwvVXNlcnMvRXlhZC9JZGVhUHJvamVjdHMvTmV1cmFsTmV0L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABR2jnI1cPE2qK1qqqRmXeDBWcClkw==
+external apis:
+0 items
+source infos:
+2 items
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/NeuralNet.scala -> 
+AAAAAAAAAAA=
+/Users/Eyad/IdeaProjects/NeuralNet/src/main/scala/helpers/TensorSugar.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXYrAVXV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9Vc2Vycy9FeWFkL0lkZWFQcm9qZWN0cy9OZXVyYWxOZXQvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
